@@ -24,4 +24,4 @@ If you need access to these datasets to reproduce our results or test your own m
 
 More details will be posted once the paper is accepted!
 
-This is a demo version; you can run our code demo_tensor.m to verify that the results are reproducible.
+This is a demo version; you can run our code demo_tensor.m to test.
