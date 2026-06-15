@@ -20,7 +20,7 @@ If you need access to these datasets to reproduce our results or test your own m
 
 ---
 
-## 📝 Warning
+## ⚠ Warning
 
 Prepare for TKDE
 
