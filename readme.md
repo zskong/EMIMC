@@ -22,6 +22,4 @@ If you need access to these datasets to reproduce our results or test your own m
 
 ## ⚠ Warning
 
-Prepare for TKDE
-
 More details will be posted once the paper is accepted!
