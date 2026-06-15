@@ -23,3 +23,5 @@ If you need access to these datasets to reproduce our results or test your own m
 ## ⚠ Warning
 
 More details will be posted once the paper is accepted!
+
+This is a demo version; you can run our code to verify that the results are reproducible.
